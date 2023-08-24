@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
-import app from "./app.js";
+import app from "./src/app.js";
 import "dotenv";
-import config from "./config/index.js";
+import config from "./src/config/index.js";
 
 //create a method
 
