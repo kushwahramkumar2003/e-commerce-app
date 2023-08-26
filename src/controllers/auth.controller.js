@@ -173,3 +173,4 @@ export const resetPassword = asyncHandler(async (req, res) => {
     message: "Password reset successfully",
   });
 });
+
